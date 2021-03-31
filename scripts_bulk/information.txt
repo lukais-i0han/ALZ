@@ -1,0 +1,9 @@
+This folder contains scripts for analysis of bulk data of my Maste's degree. Most of this work is written in R. The scripts in this folder cover the following analysis:
+  1. Pseudo-aligment with Kallisto;
+  2. DESeq2 pipeline;
+  3. IsoformSwith pipeline;
+  4. StageR pipeline;
+  5. CEMtool pipeline;
+  6. PPI.
+  
+If you have any question about the scripts, or need help in the analysis of bulk-data with R, fell free to contact me (lukas@neuro.ufrn.br). It will be a pleasure to help you.
