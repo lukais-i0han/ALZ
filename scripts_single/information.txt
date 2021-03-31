@@ -1,0 +1,1 @@
+This folder contains scripts to analysing single-cell data. The data can not be shared it. Any questions, please contact me: lukas@neuron.ufrn.br
