@@ -1,1 +1,4 @@
-# ALZ
+# Alzheimer's disease and its modification in Beta and Tau proteins accumulation when compared to animal models.
+
+Changes in gene expression characterize a multitude of human diseases and have been successfully used to predict molecular and cellular mechanisms associated with pathological processes1. Alzheimer’s disease (AD) is the most prevalent type of dementia and causes a progressive cognitive decline, for which there is no effective treatment or cure. Although expression analyses in brain diseases are generally limited by tissue availability, RNA sequen- cing (RNAseq) data have been generated from postmortem brain samples of healthy and AD individuals2–4. However, a compre- hensive description of the gene expression alterations in the AD brain remains elusive. (Introduction from our recent paper 'Differential transcript usage unravels gene expression alterations in Alzheimer’s disease human brains')
+
